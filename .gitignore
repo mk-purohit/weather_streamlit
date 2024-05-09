@@ -1,0 +1,3 @@
+env_weather_streamlit/
+__pycache__/
+weather_data/__pycache__/

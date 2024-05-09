@@ -1,0 +1,9 @@
+Afghanistan: AF
+Myanmar: MM
+Bangladesh: BD
+Bhutan: BT
+Maldives: MV
+Nepal: NP
+Pakistan: PK
+Sri Lanka: LK
+India: IN

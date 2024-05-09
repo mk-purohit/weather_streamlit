@@ -1,0 +1,199 @@
+﻿country,country_code,time_zone,admin_1,name_admin_1,city,type_city,longitude,latitude,city_id
+Afghanistan,AF,16200,Badakhshan,province,Fayzabad,capital,70.58,37.1166,1142170
+Afghanistan,AF,16200,Badghis,province,Qala i Naw,capital,63.1289,34.9874,1129867
+Afghanistan,AF,16200,Baghlan,province,Pul-e Khumri,capital,68.7151,35.9446,1130490
+Afghanistan,AF,16200,Balkh,province,Mazar-e-Sharif,capital,67.1109,36.709,1133616
+Afghanistan,AF,16200,Bamyan,province,Bamyan,capital,67.25,34.75,1147239
+Afghanistan,AF,16200,Daykundi,province,Nili,capital,66.1302,33.7218,1131833
+Afghanistan,AF,16200,Farah,province,Farah,capital,62.5,32.5,1142263
+Afghanistan,AF,16200,Faryab,province,Maymana,capital,64.7836,35.9214,1133453
+Afghanistan,AF,16200,Ghazni,province,Ghazni,capital,68.4269,33.5536,1141269
+Afghanistan,AF,16200,Helmand,province,Lashkar Gah,capital,64.3716,31.5938,1134720
+Afghanistan,AF,16200,Herat,province,Herat,capital,62,34.5,1140025
+Afghanistan,AF,16200,Jowzjan,province,Sheberghan,capital,65.7612,36.6621,1125444
+Afghanistan,AF,16200,Kabul,province,Kabul,capital,69.4167,34.5,1138957
+Afghanistan,AF,16200,Kandahar,province,Kandahar,capital,65.75,31,1138335
+Afghanistan,AF,16200,Khost,province,Khost,capital,69.9204,33.3395,1136469
+Afghanistan,AF,16200,Kunar,province,Asadabad,capital,71.147,34.8731,1148311
+Afghanistan,AF,16200,Kunduz,province,Kunduz,capital,68.75,36.75,1135690
+Afghanistan,AF,16200,Laghman,province,Mehtar Lam,capital,70.2094,34.6714,1133574
+Afghanistan,AF,16200,Logar,province,Pul-i-Alam,capital,69.0114,34.0058,1147066
+Afghanistan,AF,16200,Nangarhar,province,Jalalabad,capital,70.4515,34.4265,1139715
+Afghanistan,AF,16200,Nimruz,province,Zaranj,capital,61.8833,30.9667,1120985
+Afghanistan,AF,16200,Nuristan,province,Parun,capital,70.9221,35.4207,1130469
+Afghanistan,AF,16200,Paktia,province,Gardez,capital,69.2259,33.5974,1141857
+Afghanistan,AF,16200,Panjshir,province,Bazarak,capital,69.5152,35.3129,1429434
+Afghanistan,AF,16200,Parwan,province,Charikar,capital,69.1714,35.0136,1145352
+Afghanistan,AF,16200,Sar-e Pol,province,Sar-e Pol,capital,65.9333,36.215,1127110
+Afghanistan,AF,16200,Takhar,province,Taloqan,capital,69.5345,36.7361,1123004
+Afghanistan,AF,16200,Urozgan,province,Tarinkot,capital,65.8733,32.6268,1122747
+Afghanistan,AF,16200,Wardak,province,Maidan Shar,capital,68.8641,34.3931,1456960
+Afghanistan,AF,16200,Zabul,province,Qalat,capital,66.9083,32.1058,1130131
+Myanmar,MM,23400,Chin,State,Hakha,capital,93.6167,22.65,1325443
+Myanmar,MM,23400,Kachin,State,Myitkyina,capital,97.4,25.3833,1307741
+Myanmar,MM,23400,Kayah,State,Loikaw,capital,97.2094,19.6742,1313479
+Myanmar,MM,23400,Kayin,State,Hpa-An,capital,97.6333,16.8906,1302849
+Myanmar,MM,23400,Mon,State,Mawlamyine,capital,97.6256,16.4914,1308465
+Myanmar,MM,23400,Rakhine,State,Sittwe,capital,92.9,20.15,1295765
+Myanmar,MM,23400,Shan,State,Taunggyi,capital,97.0333,20.7833,1293960
+Myanmar,MM,23400,Ayeyarwady,Region,Pathein,capital,94.7333,16.7833,1328421
+Myanmar,MM,23400,Bago,Region,Bago,capital,96.4797,17.3367,1300466
+Myanmar,MM,23400,Magway,Region,Magway,capital,94.9167,20.15,1312609
+Myanmar,MM,23400,Mandalay,Region,Mandalay,capital,96.0836,21.9747,1311874
+Myanmar,MM,23400,Sagaing,Region,Sagaing,capital,95.9797,21.8787,1298482
+Myanmar,MM,23400,Tanintharyi,Region,Dawei,capital,98.2,14.0833,1293625
+Myanmar,MM,23400,Yangon,Region,Yangon,capital,96.1561,16.8053,1298824
+Myanmar,MM,23400,Naypyidaw,UT,Naypyidaw,capital,96.1345,19.754,6611854
+Myanmar,MM,23400,Mandalay,Region,Pyin Oo Lwin,important,96.4667,22.0333,1309937
+Bangladesh,BD,21600,Dhaka,Division,Dhaka,capital,90.4074,23.7104,1185241
+Bangladesh,BD,21600,Chittagong,Division,Chittagong,capital,91.5,22.9167,1337200
+Bangladesh,BD,21600,Khulna,Division,Khulna,capital,89.5672,22.8135,1336135
+Bangladesh,BD,21600,Barisal,Division,Barisal,capital,90.3711,22.7019,1336137
+Bangladesh,BD,21600,Sylhet,Division,Sylhet,capital,91.6667,24.5,1477362
+Bangladesh,BD,21600,Rajshahi,Division,Rajshahi,capital,88.6,24.3667,1185128
+Bangladesh,BD,21600,Rangpur,Division,Rangpur,capital,89.25,25.75,1185188
+Bangladesh,BD,21600,Mymensingh,Division,Mymensingh,capital,90.4,24.75,1185162
+Bangladesh,BD,21600,Dhaka,Division,Narayanganj,important,90.5011,23.6233,1185155
+Bangladesh,BD,21600,Dhaka,Division,Gazipur,important,90.423,23.9981,1185098
+Bangladesh,BD,21600,Dhaka,Division,Narsingdi,important,90.7181,23.9208,1185117
+Bangladesh,BD,21600,Dhaka,Division,Tangail,important,89.9167,24.25,1336144
+Bangladesh,BD,21600,Chittagong,Division,Comilla,important,91.2044,23.4578,1185186
+Bangladesh,BD,21600,Khulna,Division,Jessore,important,89.2132,23.1687,1336140
+Bangladesh,BD,21600,Khulna,Division,Kushtia,important,89.1221,23.9011,1185191
+Bhutan,BT,21600,Bumthang,District,Jakar,capital,90.7525,27.5492,1337301
+Bhutan,BT,21600,Gasa,District,Gasa,capital,89.7269,27.9037,1252578
+Bhutan,BT,21600,Lhuntse,District,Lhuntse,capital,91.1538,27.6689,1252526
+Bhutan,BT,21600,Mongar,District,Mongar,capital,91.2396,27.2747,1252514
+Bhutan,BT,21600,Paro,District,Paro,capital,89.4133,27.4305,1252490
+Bhutan,BT,21600,Pemagatshel,District,Pemagatshel,capital,91.4031,27.038,1337379
+Bhutan,BT,21600,Punakha,District,Punakha,capital,89.8598,27.5837,1252495
+Bhutan,BT,21600,Samdrup Jongkhar,District,Samdrup Jongkhar,capital,91.6167,26.9167,1337290
+Bhutan,BT,21600,Samtse,District,Samtse,capital,89.0995,26.899,1337360
+Bhutan,BT,21600,Sarpang,District,Sarpang,capital,90.2674,26.864,1252460
+Bhutan,BT,21600,Thimphu,District,Thimphu,capital,89.6419,27.4661,1252416
+Bhutan,BT,21600,Trashigang,District,Trashigang,capital,91.5542,27.3331,1252423
+Bhutan,BT,21600,Trashiyangtse,District,Trashiyangtse,capital,91.4983,27.6105,1252422
+Bhutan,BT,21600,Trongsa,District,Trongsa,capital,90.5072,27.5026,1252408
+Bhutan,BT,21600,Tsirang,District,Damphu,capital,90.1096,27.0721,1337281
+Bhutan,BT,21600,Wangdue Phodrang,District,Wangdue Phodrang,capital,89.8991,27.4862,1252395
+Bhutan,BT,21600,Zhemgang,District,Zhemgang,capital,90.6523,27.223,1337294
+Bhutan,BT,21600,Chhukha,District,Phuentsholing,important,89.3884,26.8516,1252484
+Bhutan,BT,21600,Wangdue Phodrang,District,Bajo,important,89.8996,27.4945,1252495
+Bhutan,BT,21600,Mongar,District,Gyelposhing,important,91.1984,27.2275,1252514
+Maldives,MV,18000,Male,Atoll,Male,capital,73.5089,4.1748,1282027
+Maldives,MV,18000,Addu,Atoll,Hithadhoo,capital,73.0833,-0.6,1282256
+Maldives,MV,18000,Ari,Atoll,Mahibadhoo,capital,72.9667,3.7833,1337605
+Maldives,MV,18000,Baa,Atoll,Eydhafushi,capital,73.0708,5.1033,1337606
+Maldives,MV,18000,Lhaviyani,Atoll,Naifaru,capital,73.3657,5.4444,1337616
+Maldives,MV,18000,Meemu,Atoll,Muli,capital,73.5667,2.9167,1337617
+Maldives,MV,18000,Dhaalu,Atoll,Kudahuvadhoo,capital,72.8944,2.6708,1337607
+Maldives,MV,18000,Gaafu Dhaalu,Atoll,Thinadhoo,capital,72.9333,0.5333,1337610
+Maldives,MV,18000,Haa Alif,Atoll,Dhidhdhoo,capital,73.1,6.8833,1337612
+Maldives,MV,18000,Haa Dhaalu,Atoll,Kulhudhuffushi,capital,73.07,6.6221,1337613
+Maldives,MV,18000,Thaa,Atoll,Vilufushi,important,73.3086,2.5031,7910632
+Nepal,NP,20700,Province No. 1,Province,Biratnagar,capital,87.2834,26.4831,1283582
+Nepal,NP,20700,Province No. 2,Province,Janakpur,capital,85.9065,26.7183,1283318
+Nepal,NP,20700,Bagmati,Province,Hetauda,capital,85.0322,27.4284,1283339
+Nepal,NP,20700,Gandaki,Province,Pokhara,capital,83.9833,28.2333,1282898
+Nepal,NP,20700,Lumbini,Province,Butwal,capital,83.4484,27.7006,1283562
+Nepal,NP,20700,Karnali,Province,Birendranagar,capital,81.6339,28.6019,6254843
+Nepal,NP,20700,Sudurpashchim,Province,Dipayal Silgadhi,capital,80.9402,29.2567,6254845
+Nepal,NP,20700,Bagmati,Province,Kathmandu,important,85.3167,27.7167,1283240
+Nepal,NP,20700,Province No. 1,Province,Dharan,important,87.2835,26.8125,1283460
+Nepal,NP,20700,Bagmati,Province,Bharatpur,important,84.4333,27.6833,1283613
+Nepal,NP,20700,Province No. 2,Province,Birgunj,important,84.8774,27.0104,1283581
+Nepal,NP,20700,Sudurpashchim,Province,Dhangadhi,important,80.5961,28.7079,1283467
+Nepal,NP,20700,Lumbini,Province,Nepalgunj,important,81.6167,28.05,6941099
+Pakistan,PK,18000,Punjab,Province,Lahore,capital,74.3436,31.5497,1172451
+Pakistan,PK,18000,Sindh,Province,Karachi,capital,67.0822,24.9056,1174872
+Pakistan,PK,18000,Khyber Pakhtunkhwa,Province,Peshawar,capital,71.5785,34.008,1168197
+Pakistan,PK,18000,Balochistan,Province,Quetta,capital,67.0097,30.199,1167528
+Pakistan,PK,18000,Islamabad Capital Territory,Federal Territory,Islamabad,capital,73.1338,33.7104,1162015
+Pakistan,PK,18000,Punjab,Province,Faisalabad,important,73.0833,31.4167,1179400
+Pakistan,PK,18000,Punjab,Province,Rawalpindi,important,73.0679,33.6007,1166993
+Pakistan,PK,18000,Punjab,Province,Multan,important,71.4753,30.1956,1169825
+Pakistan,PK,18000,Sindh,Province,Hyderabad,important,68.3737,25.3924,1176734
+Pakistan,PK,18000,Punjab,Province,Sialkot,important,74.5431,32.5101,1164909
+Pakistan,PK,18000,Punjab,Province,Gujranwala,important,74.1883,32.1617,1177662
+Pakistan,PK,18000,Sindh,Province,Larkana,important,68.2141,27.5551,1172128
+Pakistan,PK,18000,Punjab,Province,Bahawalpur,important,71.6833,29.4,1183880
+Pakistan,PK,18000,Punjab,Province,Sargodha,important,72.6711,32.0836,1166000
+Pakistan,PK,18000,Sindh,Province,Mirpur Khas,important,69.0159,25.5251,1170295
+Pakistan,PK,18000,Punjab,Province,Gujrat,important,74.079,32.5728,1177654
+Pakistan,PK,18000,Khyber Pakhtunkhwa,Province,Mardan,important,72.0525,34.2019,1170880
+Pakistan,PK,18000,Khyber Pakhtunkhwa,Province,Kohat,important,71.4493,33.582,1173491
+Pakistan,PK,18000,Punjab,Province,Sheikhupura,important,73.9783,31.7131,1165221
+Pakistan,PK,18000,Punjab,Province,Jhang,important,72.6963,33.6748,1162738
+Sri Lanka,LK,19800,Central,Province,Kandy,capital,80.6356,7.2955,1241622
+Sri Lanka,LK,19800,Eastern,Province,Trincomalee,capital,81.2335,8.5711,1226260
+Sri Lanka,LK,19800,North Central,Province,Anuradhapura,capital,80.4173,8.3565,1251081
+Sri Lanka,LK,19800,Northern,Province,Jaffna,capital,80.0074,9.6685,1242833
+Sri Lanka,LK,19800,North Western,Province,Kurunegala,capital,80.3623,7.4863,1237980
+Sri Lanka,LK,19800,Sabaragamuwa,Province,Ratnapura,capital,80.3992,6.6828,1228730
+Sri Lanka,LK,19800,Southern,Province,Galle,capital,80.217,6.0367,1246294
+Sri Lanka,LK,19800,Uva,Province,Badulla,capital,81.0557,6.9895,1250615
+Sri Lanka,LK,19800,Western,Province,Colombo,important,79.8478,6.9319,1248991
+Sri Lanka,LK,19800,Western,Province,Gampaha,important,79.9925,7.0897,1246007
+Sri Lanka,LK,19800,Southern,Province,Matara,important,80.5353,5.9485,1235846
+Sri Lanka,LK,19800,Eastern,Province,Batticaloa,important,81.6924,7.7102,1250161
+Sri Lanka,LK,19800,Eastern,Province,Kalmunai,important,81.8167,7.4167,1242110
+Sri Lanka,LK,19800,Sabaragamuwa,Province,Kegalle,important,80.3454,7.2532,1242571
+Sri Lanka,LK,19800,Western,Province,Sri Jayawardenepura Kotte,capital,79.9083,6.9028,1238992
+India,IN,19800,Andhra Pradesh,State,Amaravati,capital,80.3565,16.5747,1266209
+India,IN,19800,Arunachal Pradesh,State,Itanagar,capital,93.6167,27.1,1269655
+India,IN,19800,Assam,State,Dispur,capital,91.7889,26.1425,1272508
+India,IN,19800,Bihar,State,Patna,capital,85.1167,25.6,1260086
+India,IN,19800,Chhattisgarh,State,Raipur,capital,81.6333,21.2333,1258980
+India,IN,19800,Goa,State,Panaji,capital,73.8333,15.4833,1260607
+India,IN,19800,Gujarat,State,Gandhinagar,capital,72.6833,23.2167,1271715
+India,IN,19800,Haryana,State,Chandigarh,capital,76.7933,30.7343,1274746
+India,IN,19800,Himachal Pradesh,State,Shimla,capital,77.1667,31.1,1256237
+India,IN,19800,Jharkhand,State,Ranchi,capital,85.3333,23.35,1258526
+India,IN,19800,Karnataka,State,Bengaluru,capital,77.6033,12.9762,1277333
+India,IN,19800,Kerala,State,Thiruvananthapuram,capital,76.9167,8.4833,1254163
+India,IN,19800,Madhya Pradesh,State,Bhopal,capital,77.4,23.2667,1275841
+India,IN,19800,Maharashtra,State,Mumbai,capital,72.8479,19.0144,1275339
+India,IN,19800,Manipur,State,Imphal,capital,93.95,24.8167,1269771
+India,IN,19800,Meghalaya,State,Shillong,capital,91.8831,25.5689,1256523
+India,IN,19800,Mizoram,State,Aizawl,capital,92.7167,23.7333,1279186
+India,IN,19800,Nagaland,State,Kohima,capital,94.1167,25.6667,1266366
+India,IN,19800,Odisha,State,Bhubaneswar,capital,85.8333,20.2333,1275817
+India,IN,19800,Punjab,State,Chandigarh,capital,76.7933,30.7343,1274746
+India,IN,19800,Rajasthan,State,Jaipur,capital,75.8167,26.9167,1269515
+India,IN,19800,Sikkim,State,Gangtok,capital,88.6167,27.3333,1271631
+India,IN,19800,Tamil Nadu,State,Chennai,capital,80.2785,13.0878,1264527
+India,IN,19800,Telangana,State,Hyderabad,capital,78.4744,17.3753,1269843
+India,IN,19800,Tripura,State,Agartala,capital,91.275,23.8364,1279290
+India,IN,19800,Uttar Pradesh,State,Lucknow,capital,80.9167,26.85,1264733
+India,IN,19800,Uttarakhand,State,Dehradun,capital,78.0437,30.3256,1273313
+India,IN,19800,West Bengal,State,Kolkata,capital,88.3697,22.5697,1275004
+India,IN,19800,Andaman and Nicobar Islands,Union Territory,Port Blair,capital,92.75,11.6667,1259385
+India,IN,19800,Chandigarh,Union Territory,Chandigarh,capital,76.7933,30.7343,1274746
+India,IN,19800,Dadra and Nagar Haveli and Daman and Diu,Union Territory,Daman,capital,72.85,20.4167,1273618
+India,IN,19800,Lakshadweep,Union Territory,Kavaratti,capital,72.642,10.5669,1267390
+India,IN,19800,NCT of Delhi,Union Territory,New Delhi,capital,77.2311,28.6128,1261481
+India,IN,19800,Puducherry,Union Territory,Puducherry,capital,79.8167,11.9333,1259424
+India,IN,19800,Ladakh,Union Territory,Leh,capital,77.5833,34.1667,1264976
+India,IN,19800,Lakshadweep,Union Territory,Kavaratti,capital,72.642,10.5669,1267390
+India,IN,19800,Jammu and Kashmir,Union Territory,Srinagar,capital,74.8167,34.0833,1255634
+India,IN,19800,Maharashtra,State,Pune,important,73.8553,18.5196,1259229
+India,IN,19800,Gujarat,State,Ahmedabad,important,72.6167,23.0333,1279233
+India,IN,19800,Gujarat,State,Surat,important,72.8333,21.1667,1255364
+India,IN,19800,Uttar Pradesh,State,Kanpur,important,80.35,26.4667,1267995
+India,IN,19800,Maharashtra,State,Nagpur,important,79.1,21.15,1262180
+India,IN,19800,Madhya Pradesh,State,Indore,important,75.8333,22.7179,1269743
+India,IN,19800,Maharashtra,State,Thane,important,72.9667,19.2,1254661
+India,IN,19800,Madhya Pradesh,State,Bhopal,important,77.4,23.2667,1275841
+India,IN,19800,Andhra Pradesh,State,Visakhapatnam,important,83.2093,17.69,1253102
+India,IN,19800,Gujarat,State,Vadodara,important,73.2,22.3,1253573
+India,IN,19800,Uttar Pradesh,State,Ghaziabad,important,77.4333,28.6667,1271308
+India,IN,19800,Punjab,State,Ludhiana,important,75.85,30.9,1264728
+India,IN,19800,Uttar Pradesh,State,Agra,important,78.0167,27.1833,1279259
+India,IN,19800,Maharashtra,State,Nashik,important,73.8,19.9833,1261731
+India,IN,19800,Haryana,State,Faridabad,important,77.3167,28.4333,1271951
+India,IN,19800,Uttar Pradesh,State,Meerut,important,77.7,28.9833,1263214
+India,IN,19800,Gujarat,State,Rajkot,important,70.7833,22.3,1258847
+India,IN,19800,Uttar Pradesh,State,Varanasi,important,83,25.3333,1253405
+India,IN,19800,Maharashtra,State,Aurangabad,important,75.3333,19.8833,1278149
+India,IN,19800,Jharkhand,State,Dhanbad,important,86.45,23.8,1272979
+India,IN,19800,Jammu and Kashmir,Union Territory,Jammu,important,74.8667,32.7333,1269321
